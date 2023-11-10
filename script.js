@@ -1,5 +1,6 @@
 function isSameType(value1, value2) {
   //your js code here
+	return value1 === value2 ? true : false;
 }
 
 // do not change the code below.
